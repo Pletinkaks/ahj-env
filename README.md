@@ -1,1 +1,1 @@
-# ahj-env
+![CI](https://github.com/<Pletinkaks>/<ahj-env>/actions/workflows/web.yml/badge.svg)
